@@ -5,9 +5,13 @@ Two python tools I made to help with testing needs.
 
 Reliability Test Planning Binomial Method.py:
   
-  Input: reliability and confidence levels you would like to demonstrate.
+  Input: 
   
-  Output: Number of samples required for testing.
+    reliability and confidence levels you would like to demonstrate.
+  
+  Output: 
+  
+    Number of samples required for testing.
   
   Optional Inputs include:
   
@@ -17,8 +21,12 @@ Reliability Test Planning Binomial Method.py:
     
 WeibullCalc.pyw:
   
-  Inputs: Number of samples, failure/suspension cycle counts
+  Inputs: 
   
-  Outputs: estimated eta and beta for weibull fit, Bxx life, RxxCxx life, and a neat plot
+    Number of samples, failure/suspension cycle counts
+  
+  Outputs: 
+  
+    estimated eta and beta for weibull fit, Bxx life, RxxCxx life, and a neat plot
   
   Uses MLE or Regression method.
