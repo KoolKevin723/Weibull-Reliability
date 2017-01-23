@@ -10,6 +10,7 @@ Reliability Test Planning Binomial Method.py:
   Output: Number of samples required for testing.
   
   Optional Inputs include:
+  
     lifetime test ratio for accelerated testing
     Expected Beta
     Expected number of failures
