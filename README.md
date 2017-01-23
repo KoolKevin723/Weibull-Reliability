@@ -14,7 +14,7 @@ Reliability Test Planning Binomial Method.py:
     Expected Beta
     Expected number of failures
     
-WeibullCalcWithConfidence.pyw:
+WeibullCalc.pyw:
   
   Inputs: Number of samples, failure/suspension cycle counts
   
