@@ -3,11 +3,11 @@ Software used for quick reliability calculations and analysis
 
 Two python tools I made to help with testing needs.
 
-*WeibullCalc.pyw:*
+**WeibullCalc.pyw:**
   
   UI below:
   
-  ![Image of UI](Weibull-Reliability/Images/WeibullCalcPlot.png)
+  ![Image of UI](https://github.com/KoolKevin723/Weibull-Reliability/blob/master/Images/WeibullCalcUI.png)
   
   Make sweet plots like this one:
   
@@ -23,7 +23,7 @@ Two python tools I made to help with testing needs.
   
   Uses MLE or Regression method.
 
-*Reliability Test Planning Binomial Method.py:*
+**Reliability Test Planning Binomial Method.py:**
   
   Input: 
   
