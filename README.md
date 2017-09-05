@@ -11,7 +11,7 @@ Two python tools I made to help with testing needs.
   
   Make sweet plots like this one:
   
-  
+  ![Image of Plot](https://github.com/KoolKevin723/Weibull-Reliability/blob/master/Images/WeibullCalcPlot.png)
   
   Inputs: 
   
